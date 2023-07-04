@@ -1,5 +1,4 @@
-## Hi there 👋
-
+## Welcome, were the lua goofs, we make Avatars for the Minecraft [Figura](https://github.com/Kingdom-of-The-Moon/FiguraRewriteRewrite/) mod
 <!--
 
 **Here are some ideas to get you started:**
