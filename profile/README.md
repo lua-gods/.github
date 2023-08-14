@@ -1,4 +1,7 @@
-## Welcome, were the lua goofs, we make Avatars for the Minecraft [Figura](https://github.com/Kingdom-of-The-Moon/FiguraRewriteRewrite/) mod
+# Hi! Were the lua goofs, 
+## we make Avatars for the Minecraft [Figura](https://modrinth.com/mod/figura) mod
+For questions, ask us on Discord at [Figura Discord](https://discord.gg/figuramc) as `@auriafoxgirl` or `@gn8.`,
+
 <!--
 
 **Here are some ideas to get you started:**
