@@ -1,6 +1,6 @@
 # Hi! Were the lua goofs, 
 ## we make Avatars for the Minecraft [Figura](https://modrinth.com/mod/figura) mod
-For questions, ask us on Discord at [Figura Discord](https://discord.gg/figuramc) as `@auriafoxgirl` or `@gn8.`,
+For questions, ask us on Discord at [Figura Discord](https://discord.gg/figuramc) at one of the members, `@auriafoxgirl`, `@gn8.` or `@4p5`,
 
 <!--
 
