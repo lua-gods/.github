@@ -1,6 +1,6 @@
-# Hi! We're the Lua Goofs, 
-## We make Avatars for the Minecraft [Figura](https://modrinth.com/mod/figura) mod
-For questions, ask us on Discord at [Figura Discord](https://discord.gg/figuramc) at one of the members: `@auriafoxgirl`, `@gn8.`, `@4p5`, or `@kitcat962`.
+# Welcome to the Lua Goofs! 
+ We make Extraordinary aAvatars for the Minecraft [Figura](https://modrinth.com/mod/figura) mod  
+For questions related to our work, ask us on Discord at the [FiguraMC Discord Server](https://discord.gg/figuramc) at one of the members: `@auriafoxgirl`, `@gn68s`, `@4p5`, or `@kitcat962`.
 
 <!--
 
